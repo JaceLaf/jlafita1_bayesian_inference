@@ -1,0 +1,10 @@
+Bayesian Inference
+Repository created: 2/19/2024
+Class taken: Fall 2024
+
+All my projects from my F2024 class on Bayesian Inference.
+These all center around modeling of human cognition.
+Most of these files will be in R or PDF formats compiled from .rmd files.
+
+My final project for this class centered on the correlation between accuracy in lexical decision tasks and phonotactic probability of non-words.
+It utilized a Bernoulli distribution and Bayes theorem.
